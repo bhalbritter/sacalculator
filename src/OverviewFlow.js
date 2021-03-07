@@ -181,7 +181,7 @@ const DnDFlow = ({parentCallback}) => {
             })
         }
     }
-    //rekursiveMethode zum berrechnen der neuen Werte;
+    //rekursiveMethode zum berrechnen der neuen Werte;  sd
 
     let pelements = [];
 
